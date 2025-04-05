@@ -1,0 +1,5 @@
+[project]
+name = "python-substack"
+version = "0.1.0"
+description = "Write and safely manage Substack drafts from Markdown with Python, CLI, and MCP."
+requires-python = ">=3.10"
