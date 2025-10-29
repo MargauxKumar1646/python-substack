@@ -5,3 +5,4 @@ description = "Write and safely manage Substack drafts from Markdown with Python
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# clarify the control flow
